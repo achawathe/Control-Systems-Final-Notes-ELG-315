@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  4 APR 2024 02:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  5 APR 2024 02:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -908,13 +908,13 @@ Non-PDF special ignored!
 showing problem
 showing solution
 (./Final Notes.loe) [5]
-<./images/Laplace Transforms Table.png, id=137, 1220.56pt x 1031.855pt>
+<./images/Laplace Transforms Table.png, id=141, 1220.56pt x 1031.855pt>
 File: ./images/Laplace Transforms Table.png Graphic file (type png)
 <use ./images/Laplace Transforms Table.png>
 Package pdftex.def Info: ./images/Laplace Transforms Table.png  used on input line 212.
 (pdftex.def)             Requested size: 244.10767pt x 206.36734pt.
  [6 <./images/Laplace Transforms Table.png>]
-<./images/Laplace Transform Properties.png, id=153, 1437.37pt x 1286.8075pt>
+<./images/Laplace Transform Properties.png, id=157, 1437.37pt x 1286.8075pt>
 File: ./images/Laplace Transform Properties.png Graphic file (type png)
 <use ./images/Laplace Transform Properties.png>
 Package pdftex.def Info: ./images/Laplace Transform Properties.png  used on input line 220.
@@ -988,7 +988,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 533--535
  []
 
 [16]
-<./images/Voltage-Current Table For Transfer Functions.png, id=302, 1186.4325pt x 328.22626pt>
+<./images/Voltage-Current Table For Transfer Functions.png, id=306, 1186.4325pt x 328.22626pt>
 File: ./images/Voltage-Current Table For Transfer Functions.png Graphic file (type png)
 <use ./images/Voltage-Current Table For Transfer Functions.png>
 Package pdftex.def Info: ./images/Voltage-Current Table For Transfer Functions.png  used on input line 552.
@@ -1006,7 +1006,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 559--560
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 597.
-<./images/Simple RLC Circuit.png, id=304, 1915.155pt x 1098.1025pt>
+<./images/Simple RLC Circuit.png, id=308, 1915.155pt x 1098.1025pt>
 File: ./images/Simple RLC Circuit.png Graphic file (type png)
 <use ./images/Simple RLC Circuit.png>
 Package pdftex.def Info: ./images/Simple RLC Circuit.png  used on input line 600.
@@ -1015,7 +1015,7 @@ Package pdftex.def Info: ./images/Simple RLC Circuit.png  used on input line 600
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 610.
-<./images/Simple RLC Circuit in Impedence Form.png, id=319, 997.7275pt x 551.05875pt>
+<./images/Simple RLC Circuit in Impedence Form.png, id=323, 997.7275pt x 551.05875pt>
 File: ./images/Simple RLC Circuit in Impedence Form.png Graphic file (type png)
 <use ./images/Simple RLC Circuit in Impedence Form.png>
 Package pdftex.def Info: ./images/Simple RLC Circuit in Impedence Form.png  used on input line 614.
@@ -1038,7 +1038,16 @@ File: ./images/Simple RLC Circuit in Impedence Form.png Graphic file (type png)
 <use ./images/Simple RLC Circuit in Impedence Form.png>
 Package pdftex.def Info: ./images/Simple RLC Circuit in Impedence Form.png  used on input line 650.
 (pdftex.def)             Requested size: 199.54196pt x 110.2098pt.
- [19] [20]
+ [19]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 700.
+<./images/RLC Circuit with Two Loops.png, id=350, 614.295pt x 262.9825pt>
+File: ./images/RLC Circuit with Two Loops.png Graphic file (type png)
+<use ./images/RLC Circuit with Two Loops.png>
+Package pdftex.def Info: ./images/RLC Circuit with Two Loops.png  used on input line 703.
+(pdftex.def)             Requested size: 61.43309pt x 26.29977pt.
+ [20] [21 <./images/RLC Circuit with Two Loops.png>]
 \tf@loe=\write8
 \openout8 = `"Final Notes.loe"'.
 
@@ -1051,18 +1060,18 @@ Package rerunfilecheck Info: File `"Final Notes".out' has not changed.
 (rerunfilecheck)             Checksum: 97059BB2F6CE2E056E71F6D153BA1116;1726.
  ) 
 Here is how much of TeX's memory you used:
- 38311 strings out of 474116
- 890615 string characters out of 5743683
+ 38328 strings out of 474116
+ 891227 string characters out of 5743683
  1954187 words of memory out of 5000000
- 59825 multiletter control sequences out of 15000+600000
+ 59838 multiletter control sequences out of 15000+600000
  573903 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,10n,117p,835b,775s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on "Final Notes.pdf" (20 pages, 1032762 bytes).
+Output written on "Final Notes.pdf" (21 pages, 1088518 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
- 202 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 483 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 206 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
